@@ -1,0 +1,35 @@
+[toolchain]
+anchor_version = "1.0.0"
+solana_version = "3.1.13"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+geas = "CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53"
+
+[programs.devnet]
+geas = "CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53"
+
+[programs.mainnet]
+geas = "CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+lint = "cargo clippy --workspace --all-targets -- -W warnings"
+fmt = "cargo fmt --all -- --check"
+
+[test]
+startup_wait = 5000
+shutdown_wait = 2000
+
+[test.validator]
+url = "https://api.mainnet-beta.solana.com"
