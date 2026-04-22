@@ -193,4 +193,7 @@ MIT — see [LICENSE](./LICENSE).
 - X: [@geasfun](https://x.com/geasfun)
 - GitHub: [Geasfun/geas](https://github.com/Geasfun/geas)
 - Docs: [./docs](./docs) (in-repo)
+- Ticker: `$GEAS`
+- Contract: [`EdVYpkVmqhza8YUKnXkz5aYRmyukao6rjo7NhzMXpump`](https://pump.fun/coin/EdVYpkVmqhza8YUKnXkz5aYRmyukao6rjo7NhzMXpump)
+- Chart: [dexscreener](https://dexscreener.com/solana/EdVYpkVmqhza8YUKnXkz5aYRmyukao6rjo7NhzMXpump)
 - Devnet program: [`CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53`](https://solscan.io/account/CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53?cluster=devnet)
