@@ -1,7 +1,0 @@
-target/
-node_modules/
-.git/
-docs/
-examples/
-tests/
-**/*.log

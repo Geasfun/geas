@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Documentation
-    url: https://geas-gamma.vercel.app
-    about: Read the docs before filing an issue.
-  - name: Security disclosures
-    url: https://github.com/Geasfun/geas/security/policy
-    about: Do not report security issues in public.
