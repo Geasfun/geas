@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/github/stars/Geasfun/geas?style=for-the-badge&labelColor=1c0e06&color=e8d3a0" alt="stars" />
   </a>
   <a href="https://geas.fun">
-    <img src="https://img.shields.io/badge/website-geas--gamma.vercel.app-b83d1e?style=for-the-badge&labelColor=1c0e06" alt="website" />
+    <img src="https://img.shields.io/badge/website-geas.fun-b83d1e?style=for-the-badge&labelColor=1c0e06" alt="website" />
   </a>
   <a href="https://x.com/geasfun">
-    <img src="https://img.shields.io/badge/follow-%40geasprotocol-1c0e06?style=for-the-badge&logo=x&logoColor=ffffff" alt="twitter" />
+    <img src="https://img.shields.io/badge/follow-%40geasfun-1c0e06?style=for-the-badge&logo=x&logoColor=ffffff" alt="twitter" />
   </a>
 </p>
 
@@ -189,8 +189,8 @@ MIT — see [LICENSE](./LICENSE).
 
 ## Links
 
-- Website: https://geas.fun
-- X: @geasfun
-- GitHub: Geasfun/geas
-- Docs: https://geas.fun
-- Devnet program: `CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53`
+- Website: [geas.fun](https://geas.fun)
+- X: [@geasfun](https://x.com/geasfun)
+- GitHub: [Geasfun/geas](https://github.com/Geasfun/geas)
+- Docs: [./docs](./docs) (in-repo)
+- Devnet program: [`CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53`](https://solscan.io/account/CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53?cluster=devnet)
