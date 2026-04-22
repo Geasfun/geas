@@ -12,7 +12,7 @@
 
 Please **do not** open a public GitHub issue for a suspected security bug.
 
-Email a description with a reproducer to `security@geas.xyz`. If the report
+Email a description with a reproducer to `security@geas.fun`. If the report
 concerns an on-chain exploit, include:
 
 - Cluster (localnet / devnet / mainnet)

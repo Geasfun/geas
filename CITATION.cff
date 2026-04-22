@@ -4,9 +4,9 @@ message: If you use this project, please cite it as below.
 type: software
 authors:
   - name: geas core
-    website: https://geas-gamma.vercel.app
+    website: https://geas.fun
 repository-code: https://github.com/Geasfun/geas
-url: https://geas-gamma.vercel.app
+url: https://geas.fun
 abstract: >
   geas is an Anchor program that mints transferable capsules representing
   vested token positions on Solana. Sellers lock their vesting and list for

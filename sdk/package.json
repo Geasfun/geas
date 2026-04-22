@@ -32,7 +32,7 @@
   ],
   "author": {
     "name": "geas core",
-    "url": "https://geas-gamma.vercel.app"
+    "url": "https://geas.fun"
   },
   "license": "MIT",
   "repository": {
@@ -40,7 +40,7 @@
     "url": "git+https://github.com/Geasfun/geas.git",
     "directory": "sdk"
   },
-  "homepage": "https://geas-gamma.vercel.app",
+  "homepage": "https://geas.fun",
   "bugs": {
     "url": "https://github.com/Geasfun/geas/issues"
   },

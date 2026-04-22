@@ -18,10 +18,10 @@
   <a href="https://github.com/Geasfun/geas/stargazers">
     <img src="https://img.shields.io/github/stars/Geasfun/geas?style=for-the-badge&labelColor=1c0e06&color=e8d3a0" alt="stars" />
   </a>
-  <a href="https://geas-gamma.vercel.app">
+  <a href="https://geas.fun">
     <img src="https://img.shields.io/badge/website-geas--gamma.vercel.app-b83d1e?style=for-the-badge&labelColor=1c0e06" alt="website" />
   </a>
-  <a href="https://x.com/geasprotocol">
+  <a href="https://x.com/geasfun">
     <img src="https://img.shields.io/badge/follow-%40geasprotocol-1c0e06?style=for-the-badge&logo=x&logoColor=ffffff" alt="twitter" />
   </a>
 </p>
@@ -180,7 +180,7 @@ Mainnet: pending audit.
 
 PRs welcome. Read [CONTRIBUTING.md](./CONTRIBUTING.md) and the
 [Code of Conduct](./CODE_OF_CONDUCT.md) first. For security-relevant issues,
-see [SECURITY.md](./SECURITY.md) and email `security@geas.xyz` — do **not**
+see [SECURITY.md](./SECURITY.md) and email `security@geas.fun` — do **not**
 open a public issue.
 
 ## License
@@ -189,8 +189,8 @@ MIT — see [LICENSE](./LICENSE).
 
 ## Links
 
-- Website: https://geas-gamma.vercel.app
-- X: @geasprotocol
+- Website: https://geas.fun
+- X: @geasfun
 - GitHub: Geasfun/geas
-- Docs: https://geas-gamma.vercel.app
+- Docs: https://geas.fun
 - Devnet program: `CuoDH7XTZSqon2WhR2uixNsYrFkFRzRKgxDfra5vih53`

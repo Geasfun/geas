@@ -8,10 +8,10 @@ resolver = "2"
 [workspace.package]
 version = "0.4.1"
 edition = "2021"
-authors = ["geas core <contact@geas.xyz>"]
+authors = ["geas core <contact@geas.fun>"]
 license = "MIT"
 repository = "https://github.com/Geasfun/geas"
-homepage = "https://geas-gamma.vercel.app"
+homepage = "https://geas.fun"
 readme = "README.md"
 rust-version = "1.78"
 description = "Vested-token early liquidity market on Solana"

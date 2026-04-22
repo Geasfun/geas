@@ -37,7 +37,7 @@ Examples of unacceptable behavior include:
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the maintainers at contact@geas.xyz. All complaints will be
+reported to the maintainers at contact@geas.fun. All complaints will be
 reviewed and investigated promptly and fairly.
 
 ## Attribution
